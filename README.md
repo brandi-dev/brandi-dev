@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @brandi-dev
-- 👀 I’m interested in inspiring other people to go after their dreams!
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on apps that will change the world!
-- 📫 How to reach me, send me a message. 
-
-<!---
-brandi-dev/brandi-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My name is Brandi and I enjoy the challenge of developing applications, debugging code, and researching programming concepts. I am working through The Web Developer Boot Camp on Udemy in pursuit of this passion and pushing the concepts I learn onto GitHub. I would love to contribute to proects and I am excited for what the future may hold. In addition to building up these skills, I am currently attending the University of Massachusetts Lowell in pursuit of a second bachelor’s degree in Information Technology with an emphasis on object-oriented programming. 
